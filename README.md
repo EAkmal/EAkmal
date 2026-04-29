@@ -52,7 +52,7 @@
       <img src="https://img.shields.io/badge/Statistical_Modelling-8B5CF6?style=flat-square" alt="Statistical Modelling"/>
       <img src="https://img.shields.io/badge/Regression_%26_ANOVA-6D28D9?style=flat-square" alt="Regression and ANOVA"/>
       <img src="https://img.shields.io/badge/Geospatial_Analysis-2C7AC3?style=flat-square" alt="Geospatial Analysis"/>
-      <img src="https://img.shields.io/badge/Adaline_%26_ML-0A3D62?style=flat-square" alt="Adaline and Machine Learning"/>
+      <img src="https://img.shields.io/badge/Machine_Learning-0A3D62?style=flat-square" alt="Adaline and Machine Learning"/>
       <img src="https://img.shields.io/badge/SPSS-052FAD?style=flat-square&logo=ibm&logoColor=white" alt="SPSS"/></p>
       <p><strong>🏢 People Analytics &amp; HR</strong><br/>
       <img src="https://img.shields.io/badge/People_Analytics-005F73?style=flat-square" alt="People Analytics"/>
