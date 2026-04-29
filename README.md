@@ -130,7 +130,7 @@
   <tr><td align="center">🔹 Regression Analysis</td><td align="center">🔸 SQL &amp; Database Management</td></tr>
   <tr><td align="center">🔹 Correlation Analysis</td><td align="center">🔸 Microsoft Power BI</td></tr>
   <tr><td align="center">🔹 ANOVA</td><td align="center">🔸 ArcGIS — Geospatial Analysis</td></tr>
-  <tr><td align="center">🔹 Adaline Model with Regularization</td><td align="center">🔸 Excel — Advanced Analytics</td></tr>
+  <tr><td align="center">🔹 Predictive Modeling and Neural Networks</td><td align="center">🔸 Excel — Advanced Analytics</td></tr>
   <tr><td align="center">🔹 Geospatial Analysis</td><td align="center">🔸 Python · R · SPSS</td></tr>
   <tr><td colspan="2" align="center"><sub><i>M.S. Business Analytics (Data Analytics Track) · University of Houston</i></sub></td></tr>
 </table>
