@@ -270,7 +270,7 @@
 |:---:|---|---|
 | 🥇 | **SHRM-CP** — Certified Professional | Society for Human Resource Mgmt |
 | 🎖️ | **Certified HR Business Partner** | HRCI |
-| 🎖️ | **Certified HR Generalist** | — |
+| 🎖️ | **Certified HR Generalist** | HRCI |
 | 🏛️ | **Business Analytics Certificate** | Harvard Business School Online |
 | 🏆 | **Merit Scholarship** | — |
 
