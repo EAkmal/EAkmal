@@ -10,7 +10,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erum-akmalmbahrm)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erum-akmal-mbahrm)
 [![Email](https://img.shields.io/badge/-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erum.ak.khan@gmail.com)
 [![SHRM-CP](https://img.shields.io/badge/-SHRM--CP_Certified-005F73?style=for-the-badge&logoColor=white)](https://www.shrm.org/)
 [![Location](https://img.shields.io/badge/📍-Greater_Houston,_TX-1a1b27?style=for-the-badge)](https://en.wikipedia.org/wiki/Houston)
@@ -296,7 +296,7 @@
 
 *Open to opportunities in Data Science, People Analytics, HR Technology, and Workforce Strategy.*
 
-[![Connect on LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erum-akmalmbahrm)
+[![Connect on LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erum-akmal-mbahrm)
 &nbsp;
 [![Send Email](https://img.shields.io/badge/Send_a_Message-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erum.ak.khan@gmail.com)
 
